@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_lavender.mk
+    $(LOCAL_DIR)/afterlife_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_lavender-user \
-    evolution_lavender-userdebug \
-    evolution_lavender-eng
+    afterlife_lavender-user \
+    afterlife_lavender-userdebug \
+    afterlife_lavender-eng
